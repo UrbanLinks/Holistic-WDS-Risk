@@ -20,7 +20,7 @@ This study is organized in Jupyter Notebook as follows:
 - **[Data](Data)**
   
   This directory contains:
-  - Data-Cleaning.ipynb: This code is used specificly for cleaning the data of Vancouver and making Correlation matrix.
+  - [Data-Cleaning.ipynb](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/8e6f95337191c92b9653fb64e1c0c43cf6c35ebe/Data/Data-Cleaning.ipynb): This code is used specificly for cleaning the data of Vancouver and making Correlation matrix.
   - Variable in DAs.csv: The dataset in dissemination areas of Vancouver City which is the input of Data-Cleaning.
 
 - **[PCA(principal-component-analysis)](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/863c58878996d9f04cc1f30be4c272d5e2745962/PCA(principal-component-analysis))**
