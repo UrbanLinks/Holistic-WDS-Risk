@@ -5,7 +5,7 @@
 
 # Overview
 
-This study presents a holistic assessment framework for water pipe break impacts in Vancouver, Canada. It assesses social, environmental, and economic vulnerabilities as a consequence of failure (COF), combining them with the probabilities of failure (POF) is evaluated by a Weibull model. Combining these criteria prioritizes pipe replacement and rehabilitation to mitigate the adverse impacts of infrastructure failure.
+This study presents a holistic assessment framework for water pipe break impacts in Vancouver, Canada. It assesses social, environmental, and economic vulnerabilities as a consequence of failure (COF). Combining the COF with the probabilities of failure (POF) resulting from a Weibull model provides a holistic risk framework. This framework prioritizes pipe replacement and rehabilitation to mitigate the adverse impacts of infrastructure failure.
 
 
 - This repository contains the codes and data used for the research project. 
