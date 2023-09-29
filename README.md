@@ -38,7 +38,8 @@ This study is organized in Jupyter Notebook as follows:
   - parks_floodplain_area.csv, EVI.geojson: The input files for obtaining the environmental vulnerability index and generating its map.
   - Cost_Analysis_Catalogue&main.csv, WMAIN-120M.csv, ECI-120M.geojson: The input files for obtaining the economic vulnerability index and generating its map
  
-  - **[Probability Of Failure (POF) & Risk](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/1e921571d8825be532da104dc03da70bcaa505b4/Probability%20Of%20Failure%20(POF)%20%26%20Risk)**
+  - **[Probability Of Failure (POF) & Risk](https://github.com/UrbanLinks/Holistic-WDS- 
+  Risk/tree/1e921571d8825be532da104dc03da70bcaa505b4/Probability%20Of%20Failure%20(POF)%20%26%20Risk)**
  
   This directory contains:
   -  POF & Risk.ipynb: This code makes a Weibull distribution and Risk framework.
