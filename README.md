@@ -36,12 +36,14 @@ This study is organized in Jupyter Notebook as follows:
   - COF(SVCI).ipynb: This code is used to make social, environmental, and economic vulnerability indices and creating their maps.
   - scaled_df.csv, result_df.csv, SVI-map.geojson: The input files for obtaining the social vulnerability index and generating its map.
   - parks_floodplain_area.csv, EVI.geojson: The input files for obtaining the environmental vulnerability index and generating its map.
-  - Cost_Analysis_Catalogue&main.csv, WMAIN-120M.csv, ECI-120M: The input files for obtaining the economic vulnerability index and generating its map
+  - Cost_Analysis_Catalogue&main.csv, WMAIN-120M.csv, ECI-120M.geojson: The input files for obtaining the economic vulnerability index and generating its map
  
   - **[Probability Of Failure (POF) & Risk](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/1e921571d8825be532da104dc03da70bcaa505b4/Probability%20Of%20Failure%20(POF)%20%26%20Risk)**
  
   This directory contains:
-  -  POF & Risk.ipynb: This code 
+  -  POF & Risk.ipynb: This code makes a Weibull distribution and Risk framework.
+  -  SVCI-Aggr.csv: This is the required input file to calculate POF and Risk.
+  -  Risk-120M.geojson: The input geojson file to generate POF and Risk map.
 
 # Requirements
 
