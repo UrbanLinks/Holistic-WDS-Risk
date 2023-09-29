@@ -49,8 +49,6 @@ This study is organized in Jupyter Notebook as follows:
 
 There is a list of requirements dependencies for this study's Python codes [here](requirements.txt).
 
-# Example
-
 
 # Cite Us
 
