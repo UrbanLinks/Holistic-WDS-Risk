@@ -23,7 +23,7 @@ This study is organized in Jupyter Notebook as follows:
   - Data-Cleaning.ipynb: This code is used specificly for cleaning the data of Vancouver and making Correlation matrix.
   - Variable in DAs.csv: The dataset in dissemination areas of Vancouver City which is the input of Data-Cleaning.
 
-- **https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/863c58878996d9f04cc1f30be4c272d5e2745962/PCA(principal-component-analysis)**
+- **[PCA(principal-component-analysis)](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/863c58878996d9f04cc1f30be4c272d5e2745962/PCA(principal-component-analysis))**
 
   This directory contains:
   - PCA.ipynb: This code is used to apply the Principal Component Analysis (PCA) method on the dataset. The PCA code is responsible for dimensionality 
