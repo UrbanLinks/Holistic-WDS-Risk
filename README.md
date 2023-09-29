@@ -59,7 +59,7 @@ There is a list of requirements dependencies for this study's Python codes [here
 
 # Cite Us
 
-    Sinaei, A., & Dziedzic, R. Holistic Risk Assessment of Water Distribution Systems [Computer software]. https://github.com/UrbanLinks/Holistic-WDS-Risk
+    Sinaei, A., Dziedzic, R., Creaco, E. Holistic Risk Assessment of Water Distribution Systems [Computer software]. https://github.com/UrbanLinks/Holistic-WDS-Risk
     
 # Contact
 -------
