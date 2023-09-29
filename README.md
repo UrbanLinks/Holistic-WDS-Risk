@@ -33,17 +33,17 @@ This study is organized in Jupyter Notebook as follows:
 - **[Consequences Of Failure(COF)](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/f3b78f851c7c52dfdbead12e57493b4a4ab3f09a/Consequences%20Of%20Failure(COF))**
 
   This directory contains:
-  - COF(SVCI).ipynb: This code is used to make social, environmental, and economic vulnerability indices and creating their maps.
-  - scaled_df.csv, result_df.csv, SVI-map.geojson: The input files for obtaining the social vulnerability index and generating its map.
-  - parks_floodplain_area.csv, EVI.geojson: The input files for obtaining the environmental vulnerability index and generating its map.
-  - Cost_Analysis_Catalogue&main.csv, WMAIN-120M.csv, ECI-120M.geojson: The input files for obtaining the economic vulnerability index and generating its map
+  - [COF(SVCI).ipynb](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/COF%20(SVCI).ipynb): This code is used to make social, environmental, and economic vulnerability indices and creating their maps.
+  - [scaled_df.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/scaled_df.csv), [result_df.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/result_df.csv), [SVI-map.geojson](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/SVI-map.geojson): The input files for obtaining the social vulnerability index and generating its map.
+  - [parks_floodplain_area.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/parks_floodplain_area.csv), [EVI.geojson](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/EVI.geojson): The input files for obtaining the environmental vulnerability index and generating its map.
+  - [Cost_Analysis_Catalogue&main.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/Cost_Analysis_Catalogue%26main.csv), [WMAIN-120M.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/WMAIN-120M.csv), [ECI-120M.geojson](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Consequences%20Of%20Failure(COF)/ECI-120M.geojson): The input files for obtaining the economic vulnerability index and generating its map
  
 - **[Probability Of Failure (POF) & Risk](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/1e921571d8825be532da104dc03da70bcaa505b4/Probability%20Of%20Failure%20(POF)%20%26%20Risk)**
  
   This directory contains:
-  -  POF & Risk.ipynb: This code makes a Weibull distribution and Risk framework.
-  -  SVCI-Aggr.csv: This is the required input file to calculate POF and Risk.
-  -  Risk-120M.geojson: The input geojson file to generate POF and Risk map.
+  -  [POF & Risk.ipynb](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Probability%20Of%20Failure%20(POF)%20%26%20Risk/POF%20%26%20Risk.ipynb): This code makes a Weibull distribution and Risk framework.
+  -  [SVCI-Aggr.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Probability%20Of%20Failure%20(POF)%20%26%20Risk/SVCI-Aggr.csv): This is the required input file to calculate POF and Risk.
+  -  [Risk-120M.geojson](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/5412604b096ac3065b68e2c901519215a51dd35d/Probability%20Of%20Failure%20(POF)%20%26%20Risk/Risk-120M.geojson): The input geojson file to generate POF and Risk map.
 
 # Requirements
 
