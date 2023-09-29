@@ -27,7 +27,7 @@ This study is organized in Jupyter Notebook as follows:
 - **[PCA(principal-component-analysis)](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/863c58878996d9f04cc1f30be4c272d5e2745962/PCA(principal-component-analysis))**
 
   This directory contains:
-  - [PCA.ipynb](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/3992b2d9518029f91f903e29e3410e1bb0a2cb86/PCA(principal-component-analysis)/PCA.ipynb): This code is used to apply the Principal Component Analysis (PCA) method on the dataset. The PCA code is responsible for dimensionality 
+  - [PCA.ipynb](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/3992b2d9518029f91f903e29e3410e1bb0a2cb86/PCA(principal-component-analysis)/PCA.ipynb): This code is used to apply the Principal Component Analysis (PCA) method on the output of the data cleaning code. The PCA code is responsible for dimensionality 
     reduction and any related data transformations.
   - [Selected_variables.csv](https://github.com/UrbanLinks/Holistic-WDS-Risk/blob/3992b2d9518029f91f903e29e3410e1bb0a2cb86/PCA(principal-component-analysis)/Selected_variables.csv): This file is the output of the data cleaning code which contains the final variables in each dissemination areas (DAs), and this file is used as the input of the PCA method.
 
