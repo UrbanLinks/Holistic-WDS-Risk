@@ -52,25 +52,15 @@ There is a list of requirements dependencies for this study's Python codes [here
 # Cite Us
 
     @article{doi:  ,
-    
     author = {Armine Sinaei, Rebecca Dziedzic, and Enrico Creaco },
-    
     title = {HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER},
-    
     journal = {Journal of Water Resources Planning and Management},
-    
     volume = {149},
-    
     number = { },
-    
-    pages = { },
-    
+    pages = { }, 
     year = {2023},
-    
     doi = { },
-    
-    URL = { },
-    
+    URL = { }, 
     }
     
 # Contact
