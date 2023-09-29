@@ -1,4 +1,4 @@
-A holistic assessment framework for the impacts of water distribution pipe breaks
+HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER
 
 Case study: Vancouver City
 
