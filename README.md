@@ -48,6 +48,7 @@ This study is organized in Jupyter Notebook as follows:
 
 # Requirements
 
+[Python version 3.11](https://www.python.org/downloads/release/python-3110/) was used to all codes.
 There is a list of requirements dependencies for this study's Python codes [here](requirements.txt).
 
 
