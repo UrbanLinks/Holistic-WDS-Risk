@@ -1,6 +1,6 @@
 <img src="Logo/photo_5816681274650247274_x.jpg" align="center" alt="Holistic-WDS-Risk">
 
-**HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER**
+**HHolistic Risk Assessment of Water Distribution Systems**
 
 
 # Overview
@@ -59,17 +59,7 @@ There is a list of requirements dependencies for this study's Python codes [here
 
 # Cite Us
 
-    @article{doi:  ,
-    author = {Armine Sinaei, Rebecca Dziedzic, and Enrico Creaco },
-    title = {HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER},
-    journal = {Journal of Water Resources Planning and Management},
-    volume = {149},
-    number = { },
-    pages = { }, 
-    year = {2023},
-    doi = { },
-    URL = { }, 
-    }
+    Sinaei, A., & Rebecca Dziedzic, R. Holistic Risk Assessment of Water Distribution Systems [Computer software]. https://github.com/UrbanLinks/Holistic-WDS-Risk
     
 # Contact
 -------
