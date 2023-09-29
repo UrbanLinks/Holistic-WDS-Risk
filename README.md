@@ -53,7 +53,7 @@ There is a list of requirements dependencies for this study's Python codes [here
 
     @article{doi:  ,
     
-    author = {Armine Sinaei, Rebecca Dziedzic,and Enrico Creaco },
+    author = {Armine Sinaei, Rebecca Dziedzic, and Enrico Creaco },
     
     title = {HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER},
     
