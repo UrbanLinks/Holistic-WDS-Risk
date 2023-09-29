@@ -30,7 +30,7 @@ This study is organized in Jupyter Notebook as follows:
     reduction and any related data transformations.
   - Selected_variables.csv: This is the input of PCA method.
 
-- **https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/f3b78f851c7c52dfdbead12e57493b4a4ab3f09a/Consequences%20Of%20Failure(COF)**
+- **[Consequences Of Failure(COF)](https://github.com/UrbanLinks/Holistic-WDS-Risk/tree/f3b78f851c7c52dfdbead12e57493b4a4ab3f09a/Consequences%20Of%20Failure(COF))**
 
   This directory contains:
   - COF(SVCI).ipynb: This code is used to make social, environmental, and economic vulnerability indices and creating their maps.
