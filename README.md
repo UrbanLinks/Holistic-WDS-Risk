@@ -1,4 +1,4 @@
-HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER
+**HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS: A CASE STUDY OF VANCOUVER**
 
 
 # Overview
@@ -6,7 +6,7 @@ HOLISTIC ASSESSMENT OF SOCIAL, ENVIRONMENTAL AND ECONOMIC IMPACTS OF PIPE BREAKS
 This study presents a holistic assessment framework for water pipe break impacts in Vancouver, Canada. It assesses social, environmental, and economic vulnerabilities as a consequence of failure (COF), combining them with the probabilities of failure (POF) is evaluated by a Weibull model. Combining these criteria prioritizes pipe replacement and rehabilitation to mitigate the adverse impacts of infrastructure failure.
 
 
-- This repository contains the code and data used for the research project. 
+- This repository contains the codes and data used for the research project. 
 
 - The codes was developed using **Jupyter Notebook** for data analysis and visualization.
 
