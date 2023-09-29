@@ -1,22 +1,22 @@
 <img src="Logo/photo_5816681274650247274_x.jpg" align="center" alt="Holistic-WDS-Risk">
 
-**HHolistic Risk Assessment of Water Distribution Systems**
+**Holistic Risk Assessment of Water Distribution Systems**
 
 
 # Overview
 
-This study presents a holistic assessment framework for water pipe break impacts in Vancouver, Canada. It assesses social, environmental, and economic vulnerabilities as a consequence of failure (COF). Combining the COF with the probabilities of failure (POF) resulting from a Weibull model provides a holistic risk framework. This framework prioritizes pipe replacement and rehabilitation to mitigate the adverse impacts of infrastructure failure.
+This study presents a holistic assessment framework for water pipe break impacts in Vancouver, Canada. It assesses social, environmental, and economic vulnerabilities as consequences of failure (COF). Combining the COF with the probabilities of failure (POF) resulting from a Weibull model provide a holistic risk framework. This framework prioritizes pipe replacement and rehabilitation to mitigate the adverse impacts of infrastructure failure.
 
 
 - This repository contains the codes and data used for the research project. 
 
-- The codes was developed using **Jupyter Notebook** for data analysis and visualization.
+- The code was developed using **Jupyter Notebook** for data analysis and visualization.
 
 
 
 # File Structure
 
-This study is organized in Jupyter Notebook as follows:
+The code and data used in the study is organized in the following folders and files:
 
 - **[Data](Data)**
   
@@ -59,7 +59,7 @@ There is a list of requirements dependencies for this study's Python codes [here
 
 # Cite Us
 
-    Sinaei, A., & Rebecca Dziedzic, R. Holistic Risk Assessment of Water Distribution Systems [Computer software]. https://github.com/UrbanLinks/Holistic-WDS-Risk
+    Sinaei, A., & Dziedzic, R. Holistic Risk Assessment of Water Distribution Systems [Computer software]. https://github.com/UrbanLinks/Holistic-WDS-Risk
     
 # Contact
 -------
