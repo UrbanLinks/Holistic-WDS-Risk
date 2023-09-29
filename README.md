@@ -35,8 +35,8 @@ This study is organized in Jupyter Notebook as follows:
   This directory contains:
   - COF(SVCI).ipynb: This code is used to make social, environmental, and economic vulnerability indices and creating their maps.
   - scaled_df.csv, result_df.csv, SVI-map.geojson: The input files for obtaining the social vulnerability index and generating its map.
-  - parks_floodplain_area.csv, EVI.geojson:
-  - Cost_Analysis_Catalogue&main.csv, WMAIN-120M.csv, ECI-120M:
+  - parks_floodplain_area.csv, EVI.geojson: The input files for obtaining the environmental vulnerability index and generating its map.
+  - Cost_Analysis_Catalogue&main.csv, WMAIN-120M.csv, ECI-120M: The input files for obtaining the economic vulnerability index and generating its map
 
 # Requirements
 
