@@ -14,5 +14,8 @@ authors:
   - given-names: Rebecca
     family-names: Dziedzic
     email: rebecca.dziedzic@concordia.ca
+  - given-names: Enrico
+    family-names: Creaco
+    email: creaco@unipv.it
 repository-code: 'https://github.com/UrbanLinks/Holistic-WDS-Risk'
 url: 'https://github.com/UrbanLinks/'
